@@ -15,7 +15,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 """
-multiworld_all_reduce.py: This script demonstrates how to
+m8d_all_reduce.py: This script demonstrates how to
 execute an all_reduce on tensors for each rank in a world.
 """
 
